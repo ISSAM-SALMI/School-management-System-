@@ -14,7 +14,7 @@
 The project comprises five main files and one folder for organizing images. Each file serves a specific purpose in managing the school system.
 
 File Descriptions:
-*main.py* : Responsible for displaying various windows to manage the school system.
+##### *main.py* : Responsible for displaying various windows to manage the school system.
 *bb.pdf* :An empty PDF file intended to be populated with student information after registration, facilitating the generation of a registration form.
 *AfaqCenter.pdf*:A PDF document containing essential information about the center.
 *AdminZahra.db* : A SQLite3 database file that stores and manages data crucial for the proper functioning of the system.
